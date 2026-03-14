@@ -18,6 +18,6 @@ Analyze sales data to identify top-performing products, regions, and overall sal
 5. Summarize insights.
 
 ## 📈 Deliverables
-- Google Colab
+- Google Colab Notebook
 - Visualizations (bar, pie, line charts)
 - Insights summary
